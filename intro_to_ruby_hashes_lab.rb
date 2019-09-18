@@ -19,7 +19,7 @@ def monopoly_with_third_tier
 		    :california_railroad => {},
 		    :iowa_railroad => {},
 		    :nevada_railroad => {},
-		    :
+		    :utah_railroad => {}
 		  },
 	  :pieces => 4,
 	  :rent_in_dollars => 
