@@ -20,7 +20,7 @@ def monopoly_with_third_tier
   		 :reading_railroad=>{},
   		 :pennsylvania_railroad=>{},
   		 :b_and_o_railroad=>{},
-  		 :shortline=>{}
+  		 :shortline_railroad=>{}
 		  },
 	  :pieces => 4,
 	  :rent_in_dollars => 
