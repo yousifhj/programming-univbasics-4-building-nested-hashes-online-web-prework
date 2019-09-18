@@ -1,7 +1,6 @@
 def base_hash
  base_hash = {
  }
- return
 end
 
 def monopoly_with_second_tier
