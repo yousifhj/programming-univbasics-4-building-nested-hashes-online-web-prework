@@ -1,5 +1,5 @@
 def base_hash
-   test_hash = Hash.new
+   
 end
 
 def monopoly_with_second_tier
